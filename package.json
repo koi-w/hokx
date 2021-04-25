@@ -1,0 +1,33 @@
+{
+  "name": "hokx",
+  "version": "0.0.0-test-210424-02",
+  "description": "A lightweight state management tool for react hook",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build:commonjs": "cross-env BABEL_ENV=commonjs babel src --out-dir lib"
+  },
+  "keywords": [
+    "hokx",
+    "reducer",
+    "state",
+    "react",
+    "reactjs"
+  ],
+  "author": "koi",
+  "license": "ISC",
+  "dependencies": {},
+  "files": [
+    "src",
+    "lib"
+  ],
+  "devDependencies": {
+    "@babel/cli": "^7.13.14",
+    "@babel/core": "^7.13.14",
+    "@babel/plugin-transform-react-jsx": "^7.13.12",
+    "@babel/plugin-transform-runtime": "^7.13.10",
+    "@babel/preset-env": "^7.13.12",
+    "@babel/preset-react": "^7.13.13",
+    "cross-env": "^7.0.3"
+  }
+}
