@@ -1,6 +1,6 @@
 {
   "name": "hokx",
-  "version": "0.0.0-test-210424-02",
+  "version": "1.0.3",
   "description": "A lightweight state management tool for react hook",
   "main": "lib/index.js",
   "scripts": {
@@ -29,5 +29,13 @@
     "@babel/preset-env": "^7.13.12",
     "@babel/preset-react": "^7.13.13",
     "cross-env": "^7.0.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/koi-w/hokx"
+  },
+  "bugs": {
+    "url": "https://github.com/koi-w/hokx/issues"
+  },
+  "homepage": "https://github.com/koi-w/hokx#readme"
 }
