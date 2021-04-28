@@ -138,5 +138,4 @@ const reducer = {
 ```
 
 ## Employ
-Shopping cart example（coding...
 [hokx cart demo](https://github.com/koi-w/hokx-cart-demo)
